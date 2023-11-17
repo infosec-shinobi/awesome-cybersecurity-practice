@@ -1,6 +1,6 @@
 # awesome-cybersecurity-practice
 
-A curated list of resources that can be leveraged to enhance and/or keep your skill set up in the cybersecurity field.
+A curated list of resources that can be leveraged to enhance and/or keep your skill set up in the cybersecurity field. If you need assistance figuring out what to learn next, you can leverage this [mind map](https://roadmap.sh/cyber-security) of cybersecurity topics to pick.
 
 ## Holiday Challenges
 
